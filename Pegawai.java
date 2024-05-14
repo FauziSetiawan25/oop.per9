@@ -1,5 +1,3 @@
-package pertemuan9;
-
 import java.util.Objects;
 
 public class Pegawai {
