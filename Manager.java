@@ -1,5 +1,3 @@
-package pertemuan9;
-
 public class Manager extends Pegawai{
     public Manager(String nama, String departemen, char jenisKelamin){
         super(nama, departemen, jenisKelamin);
