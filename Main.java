@@ -1,5 +1,3 @@
-package pertemuan9;
-
 public class Main {
     public static void main(String[] args) {
         Pegawai pegawai1 = new Pegawai("Diza", "HRD", 'P');
