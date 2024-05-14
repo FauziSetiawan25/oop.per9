@@ -1,5 +1,3 @@
-package pertemuan9;
-
 public class Salesman extends Pegawai{
     private int target, penjualan;
     public Salesman(String nama, String departemen, char jenisKelamin){
